@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Password Strength Checker",
+  "description": "An application that estimates the time it would take for a computer to crack a given password, designed with an elegant liquid glass aesthetic.",
+  "requestFramePermissions": []
+}
